@@ -1,4 +1,4 @@
-Question Link:
+Question Link: https://www.codechef.com/problems/PERFECTTRIO
 
 for t in range(int(input())):
     a,b,c = map(int,input().split())

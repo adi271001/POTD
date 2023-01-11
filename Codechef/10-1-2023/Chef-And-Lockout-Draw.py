@@ -1,4 +1,4 @@
-Question Link:
+Question Link: https://www.codechef.com/problems/LOCKDRAW
 
 t = int(input())
 for i in range(t):

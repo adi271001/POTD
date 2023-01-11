@@ -1,4 +1,4 @@
-Question Link:
+Question Link: https://www.codechef.com/problems/CHEFWORK
   
 n = int(input())
 a = [int(x) for x in input().split()] 

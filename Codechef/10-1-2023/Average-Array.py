@@ -1,4 +1,4 @@
-Question Link:
+Question Link: https://www.codechef.com/problems/AVGARR
   
 for i in range(int(input())):
     n, x = map(int, input().split())

@@ -1,3 +1,5 @@
+Question Link: https://www.codechef.com/problems/XOR2
+
 t = int(input())
 for _ in range(t):
     n = int(input())

@@ -1,6 +1,7 @@
 Question Link: https://practice.geeksforgeeks.org/problems/scrambled-string/1
-  
+from functools import lru_cache  
 class Solution:
+    @lru_cache(None)
     def isScramble(self,S1: str, S2: str):
         ##code here
         if S1 == S2:

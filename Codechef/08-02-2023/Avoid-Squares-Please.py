@@ -1,3 +1,5 @@
+Question Link: https://www.codechef.com/problems/AVDSQUARPLZ
+
 k=int(input())
 for c in range(k):
     p=int(input())

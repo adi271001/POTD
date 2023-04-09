@@ -1,3 +1,4 @@
+from collections import deque
 class Solution:
     def inverse(self, x, MOD):
         return pow(x, MOD-2, MOD)
